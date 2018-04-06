@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://meow0v0.github.io/2018/04/06/Hexo-Github-Pages(%E4%B8%80)%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E6%90%AD%E5%BB%BA/</loc>
+    
+    <lastmod>2018-04-06T16:07:57.021Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://meow0v0.github.io/about/index.html</loc>
     
     <lastmod>2018-04-06T06:50:50.811Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://meow0v0.github.io/2018/04/06/hello-world/</loc>
     
     <lastmod>2018-04-06T06:37:58.763Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://meow0v0.github.io/2018/04/06/Hexo-Github-Pages/</loc>
-    
-    <lastmod>2018-04-06T06:28:04.452Z</lastmod>
     
   </url>
   
